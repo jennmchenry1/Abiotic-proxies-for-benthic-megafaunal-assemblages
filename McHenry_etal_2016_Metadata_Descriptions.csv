@@ -1,0 +1,72 @@
+Column Name,Column Definition 
+Sub_Transect_Number,The unique identifer for each standardized sub-transect.
+Survey_Date,Date of the original ROV or drop camera survey.
+Year,Year of the original ROV or drop camera survey.
+Latitude_DD,Latitude of the sampling location in decimal degrees.
+Longitude_DD,Longitude of the sampling location in decimal degrees.
+Transect_Location,The general location of sampling. 
+Watermass_Strata,A factor representing whether the survey took place within the Western Maine Coastal Current or the Eastern Maine Coastal Current.
+Depth_Strata,"A factor representing the depth bin of the survey(i.e., 30m, 60m, or 100m)"
+Depth_Continuous,The continuous depth measured in situ by the ROV or drop camera.
+Substrate_Type,"The dominant substrate type identified during video analysis (i.e., ledge, boulder, cobble, gravel, mud)."
+Ledge,The presence absense of ledge substrate.
+Boulder,The presence absense of boulder substrate.
+Cobble,The presence absense of cobble substrate.
+Gravel,The presence absense of gravel substrate.
+Mud,The presence absense of mud substrate.
+Bottom_Salinity_HYCOM,Modeled bottom salinity (psu) aquired from the water-mass values HYCOM GLBu0.08 4D model output via the Marine Geo-spatial Ecology Toolbox in ArcGIS 10.3.
+Bottom_Temperature_HYCOM,Modeled bottom temperature (C) aquired from the water-mass values HYCOM GLBu0.08 4D model output via the Marine Geo-spatial Ecology Toolbox in ArcGIS 10.3.
+Bottom_Velocity_HYCOM,Modeled bottom current velocity (m/s) aquired from the water-mass values HYCOM GLBu0.08 4D model output via the Marine Geo-spatial Ecology Toolbox in ArcGIS 10.3.
+Bottom_Direction_HYCOM,Modeled bottom current direction (degrees) aquired from the water-mass values HYCOM GLBu0.08 4D model output via the Marine Geo-spatial Ecology Toolbox in ArcGIS 10.3.
+Shannon.Weiner_Diversity,The shannon weiner species diversity of the sub transect.
+Assemblage_Density_per_100sqm,The total density of indiviudals per 100sqm calculated for the sub transect.
+Assemblage_Biomass_kg_per_100sqm,The total biomass of all species per 100sqm calculated for the sub transect.
+Economic_Value_per_100sqm,The estimated total monetary value of commercial species per 100sqm for the sub transect.
+Demersal_Fish_Density_per_100sqm,The density of demersal fish per 100sqm calculated for the sub transect.
+Mobile_Benthic_Invertebrate_Density_per_100sqm,The density of mobile benthic invertebrates per 100sqm calculated for the sub transect.
+Sessile_Invertebrate_Density_per_100sqm,The density of sessile invertebrate species per 100sqm calculated for the sub transect.
+Radiated_Shanny,The density of radiated shanny.
+Red_Hake,The density of red hake. 
+White_Hake,The density of white hake
+Cunner,The density of  cunner.
+Alligatorfish,The density of alligator fish.
+Atlantic_Cod,The density of Atlantic cod.
+Witch_Flounder,The density of witch flounder.
+Snakeblenny,The density of snake blenny.
+Silver_Hake,The density of silver hake.
+American_Plaice,The density of American plaice. 
+Longhorn_Sculpin,The density of longhorn sculpin. 
+Shorthorn_Sculpin,The density of shorthorn sculpin.
+Pollock,The density of pollock.
+Acadian_Redfish,The density of Acadian Redfish.
+Green_Sea_Urchin,The density of green sea urchine
+Northern_Seastar,The density of northern sea stars.
+Blood_Star,The density of blood stars.
+American_Lobster,The density of American lobster.
+Jonah_Crab,The density of Jonah's crab.
+Atlantic_Rock_Crab,The density of rock crab.
+Common_Sand_Dollar,The density of common sand dollar.
+Northern_Shrimp,The density of northern shrimp.
+Giant_Sea_Scallop,The density of giant sea scallop.
+Sea_Potato,The density of sea potato tunicates.
+Pacific_Orange_Crust,The density of pacific orange crust tunicates.
+Northern_Cerianthid,The density of cerianthic anemones
+Boring_Sponge,The density of boring spones.
+White_Crust_Tunicate,The density of white crust tunicates.
+Breadcrumb_Sponge,The density of bread crumb sponge
+Finger_Sponge,The density of finger sponge.
+Hydroid_sp,The density of hydroids.
+Iophon_Sponge,The density of Iophon sponge
+Palmate_Sponge,The density of palmate sponges
+Clonal_Plumose_Anemone,The density of clonal plumose anemone
+Red_Beard_Sponge,The density of red beard sponge.
+Northern_Horse_Mussel,The density of northern horse mussel.
+Sabellid_Worm,The density of sabellid worms.
+Polymastia_Sponge,The density of polymastia sponges
+Porifera_sp,The density of unidentified sponges.
+Fig_Sponge,The density of fig sponge
+Northern_Lampshell,The density of northern lampshells.
+Tunicate_sp,The density of unidentified tunicates.
+Northern_Red_Anemone,The density of northern red anemones.
+Region,"A factor for the region of sampling (i.e., Casco Bay, Cutler, Hurricane Island, Mount Desert Island, and Midcoast)."
+Segment_Area_sqm,The estimated area surveyed by each sub-transect.
