@@ -1,4 +1,4 @@
-# Abiotic-proxies-for-benthic-megafaunal-assemblages
+# Abiotic-proxies-for-predictive-mapping-of-nearshore-benthic-megafaunal-assemblages
 
 **Data Curator:** Jennifer McHenry (FSU Dept. of Geography)
 
