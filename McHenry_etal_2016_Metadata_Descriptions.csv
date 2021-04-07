@@ -2,8 +2,8 @@ Column Name,Column Definition
 Sub_Transect_Number,The unique identifer for each standardized sub-transect.
 Survey_Date,Date of the original ROV or drop camera survey.
 Year,Year of the original ROV or drop camera survey.
-Latitude_DD,Latitude of the sampling location in decimal degrees.
-Longitude_DD,Longitude of the sampling location in decimal degrees.
+Latitude_DD,Latitude of the sampling location in decimal degrees (WGS84).
+Longitude_DD,Longitude of the sampling location in decimal degrees (WGS84).
 Transect_Location,The general location of sampling. 
 Watermass_Strata,A factor representing whether the survey took place within the Western Maine Coastal Current or the Eastern Maine Coastal Current.
 Depth_Strata,"A factor representing the depth bin of the survey(i.e., 30m, 60m, or 100m)"
